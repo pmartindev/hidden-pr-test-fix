@@ -4,3 +4,4 @@ Test change component1, part3
 Test change component1, part4
 Test change component1, part5
 Test change component1, promotion
+Test change component1, part6
