@@ -1,2 +1,6 @@
 Test change component1
 Test change component1, part2 2
+Test change component1, part3
+Test change component1, part4
+Test change component1, part5
+Test change component1, promotion
