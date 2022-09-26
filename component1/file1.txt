@@ -1,1 +1,2 @@
 Test change component1
+Test change component1, part2 2
