@@ -2,3 +2,4 @@ Test change component2 file2 1
 Test change component2 file2 3
 Test change component2 file2 4
 Test change component2 file2 5
+Test change component2 file2 6
